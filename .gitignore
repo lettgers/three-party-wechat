@@ -1,0 +1,10 @@
+*.pyc
+*.pyo
+*.so
+*.class
+*~
+*.log
+.idea
+.idea/**
+.idea/vcs.xml
+/wehcat.log.2017-09-08
